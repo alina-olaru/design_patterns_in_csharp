@@ -1,0 +1,12 @@
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\bin\Debug\netcoreapp3.1\Command Pattern.exe
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\bin\Debug\netcoreapp3.1\Command Pattern.deps.json
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\bin\Debug\netcoreapp3.1\Command Pattern.runtimeconfig.json
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\bin\Debug\netcoreapp3.1\Command Pattern.runtimeconfig.dev.json
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\bin\Debug\netcoreapp3.1\Command Pattern.dll
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\bin\Debug\netcoreapp3.1\Command Pattern.pdb
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\obj\Debug\netcoreapp3.1\Command Pattern.AssemblyInfoInputs.cache
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\obj\Debug\netcoreapp3.1\Command Pattern.AssemblyInfo.cs
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\obj\Debug\netcoreapp3.1\Command Pattern.csproj.CoreCompileInputs.cache
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\obj\Debug\netcoreapp3.1\Command Pattern.dll
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\obj\Debug\netcoreapp3.1\Command Pattern.pdb
+C:\Alina\courses - for git\.net\designPatterns\behavioral\command_pattern\Command Pattern\Command Pattern\obj\Debug\netcoreapp3.1\Command Pattern.genruntimeconfig.cache
